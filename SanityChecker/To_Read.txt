@@ -1,0 +1,10 @@
+Sanity cheker for maya 
+Can check and fix : 
+- if the render camera isn't set on a starter camera 
+- if the format isn't on default (540) and put it on 1920x1080
+- if the engine is set on renderman 
+- if there is duplicate name 
+- if there is no base name (pCube, pSphere, etc)
+- if the subdiv scheme is activated
+
+to make the code work you have to change the ui path in the main.py
