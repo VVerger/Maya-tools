@@ -1,0 +1,5 @@
+separator -p "MainStatusLineLayout|formLayout4|flowLayout1" -style "none" -w 15;
+
+iconTextButton -style "iconOnly"
+    -image1 "//Storage03/Partages/3D4/KIVU/01_ressource/asset_manager/ressource/icon/blinkVictor_save" -p "MainStatusLineLayout|formLayout4|flowLayout1" -c "import main; main.launcher()" -sourceType "python";
+
