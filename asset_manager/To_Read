@@ -1,0 +1,13 @@
+To make the code operational several path must be corrected for your need.
+Path to change in :
+- data.py in bin
+- data.py in bin_houdini
+- Maya.env in ressource
+- userSetup.mel in ressource
+- houdini_package. json in ressource/packages
+
+Once dones several maneuvers must be carried out :
+- replace Maya.env in your document/maya/maya202X by the one here
+- copy userSetup.mel in your document/maya/maya202X/scripts
+- copy the packages folder and MainMenuMaster.xml in your document/houdiniXX
+
