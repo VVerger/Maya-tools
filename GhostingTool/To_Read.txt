@@ -1,0 +1,2 @@
+Tool to activate and control ghost on an object in maya.
+To make it work, change the path in Maya.env to where your GhostingTool folder is and do the same for the ui path in the ui.py
