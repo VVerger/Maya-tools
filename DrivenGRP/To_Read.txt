@@ -1,0 +1,1 @@
+This code create an offset group or driven group in maya, usefull during rigging.
