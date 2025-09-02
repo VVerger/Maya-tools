@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mainMenu>
+  <menuBar>
+    <subMenu id="custom_tools_menu">
+      <label>KIVU</label>
+      <scriptItem id="my_button">
+        <label>Launch Manager</label> 
+        <scriptCode><![CDATA[
+import mainHoudini as mH
+mH.launcher()
+        ]]></scriptCode>
+      </scriptItem>
+    </subMenu>
+  </menuBar>
+</mainMenu>
